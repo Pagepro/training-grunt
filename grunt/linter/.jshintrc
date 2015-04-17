@@ -1,0 +1,6 @@
+{
+  "indent": 2,
+  "latedef": true,
+  "maxlen": 80,
+  "maxstatements": 20
+}
